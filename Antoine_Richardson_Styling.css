@@ -1,0 +1,18 @@
+h1{
+    color: cyan;
+    text-align: left;
+    font-family: cursive;
+    background-color: black;
+}
+h2{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    background-color: purple;
+}
+h3{
+    text-align: right;
+    font-family: sans-serif;
+    text-decoration: underline;
+    background-color: lightblue;
+}
